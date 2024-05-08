@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shunsukew
-- 📫 How to reach me shunsukesan.tech@gmail.com
+- 📫 How to reach me shunsuke.watanabe@startale.com
 
 <!---
 shunsukew/shunsukew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
